@@ -1,7 +1,7 @@
 package soyjs
 
 import (
-	"github.com/robfig/soy/ast"
+	"github.com/yext/soy/ast"
 )
 
 // JSWriter is provided to functions to write to the generated javascript.

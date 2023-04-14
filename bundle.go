@@ -10,11 +10,11 @@ import (
 	"time"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/robfig/soy/data"
-	"github.com/robfig/soy/parse"
-	"github.com/robfig/soy/parsepasses"
-	"github.com/robfig/soy/soyhtml"
-	"github.com/robfig/soy/template"
+	"github.com/yext/soy/data"
+	"github.com/yext/soy/parse"
+	"github.com/yext/soy/parsepasses"
+	"github.com/yext/soy/soyhtml"
+	"github.com/yext/soy/template"
 )
 
 // Logger is used to print notifications and compile errors when using the

@@ -12,13 +12,13 @@ import (
 
 	"github.com/andreyvit/diff"
 	"github.com/robertkrimen/otto"
-	"github.com/robfig/soy"
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/data"
-	"github.com/robfig/soy/parse"
-	"github.com/robfig/soy/parsepasses"
-	"github.com/robfig/soy/soymsg"
-	"github.com/robfig/soy/template"
+	"github.com/yext/soy"
+	"github.com/yext/soy/ast"
+	"github.com/yext/soy/data"
+	"github.com/yext/soy/parse"
+	"github.com/yext/soy/parsepasses"
+	"github.com/yext/soy/soymsg"
+	"github.com/yext/soy/template"
 )
 
 // TODO: test all types of globals

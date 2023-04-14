@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/parse"
-	"github.com/robfig/soy/soymsg"
+	"github.com/yext/soy/ast"
+	"github.com/yext/soy/parse"
+	"github.com/yext/soy/soymsg"
 )
 
 func TestValidate(t *testing.T) {

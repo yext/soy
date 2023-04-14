@@ -3,9 +3,9 @@ package parsepasses
 import (
 	"fmt"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/data"
-	"github.com/robfig/soy/template"
+	"github.com/yext/soy/ast"
+	"github.com/yext/soy/data"
+	"github.com/yext/soy/template"
 )
 
 // SetGlobals sets the value of all global nodes in the given registry.

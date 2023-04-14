@@ -8,14 +8,14 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/robfig/gettext/po"
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/data"
-	"github.com/robfig/soy/errortypes"
-	"github.com/robfig/soy/parse"
-	"github.com/robfig/soy/parsepasses"
-	"github.com/robfig/soy/soymsg"
-	"github.com/robfig/soy/template"
+	"github.com/yext/gettext/po"
+	"github.com/yext/soy/ast"
+	"github.com/yext/soy/data"
+	"github.com/yext/soy/errortypes"
+	"github.com/yext/soy/parse"
+	"github.com/yext/soy/parsepasses"
+	"github.com/yext/soy/soymsg"
+	"github.com/yext/soy/template"
 )
 
 type d map[string]interface{}

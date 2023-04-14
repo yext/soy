@@ -4,8 +4,8 @@ package parsepasses
 import (
 	"fmt"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/template"
+	"github.com/yext/soy/ast"
+	"github.com/yext/soy/template"
 )
 
 // CheckDataRefs validates that:

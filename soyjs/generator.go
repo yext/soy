@@ -4,8 +4,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/robfig/soy/soymsg"
-	"github.com/robfig/soy/template"
+	"github.com/yext/soy/soymsg"
+	"github.com/yext/soy/template"
 )
 
 // Options for js source generation.

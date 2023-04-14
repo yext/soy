@@ -9,9 +9,9 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/data"
-	"github.com/robfig/soy/soymsg"
+	"github.com/yext/soy/ast"
+	"github.com/yext/soy/data"
+	"github.com/yext/soy/soymsg"
 )
 
 type state struct {

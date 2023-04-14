@@ -10,8 +10,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/robfig/gettext/po"
-	"github.com/robfig/soy/soymsg"
+	"github.com/yext/gettext/po"
+	"github.com/yext/soy/soymsg"
 	"golang.org/x/text/language"
 )
 

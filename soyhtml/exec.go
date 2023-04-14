@@ -8,11 +8,11 @@ import (
 	"runtime"
 	"runtime/debug"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/data"
-	"github.com/robfig/soy/errortypes"
-	"github.com/robfig/soy/soymsg"
-	soyt "github.com/robfig/soy/template"
+	"github.com/yext/soy/ast"
+	"github.com/yext/soy/data"
+	"github.com/yext/soy/errortypes"
+	"github.com/yext/soy/soymsg"
+	soyt "github.com/yext/soy/template"
 )
 
 // Logger collects output from {log} commands.

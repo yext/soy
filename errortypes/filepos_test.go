@@ -4,7 +4,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/robfig/soy/errortypes"
+	"github.com/yext/soy/errortypes"
 )
 
 func TestIsErrFilePos(t *testing.T) {

@@ -9,12 +9,12 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/robfig/gettext/po"
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/parse"
-	"github.com/robfig/soy/parsepasses"
-	"github.com/robfig/soy/soymsg/pomsg"
-	"github.com/robfig/soy/template"
+	"github.com/yext/gettext/po"
+	"github.com/yext/soy/ast"
+	"github.com/yext/soy/parse"
+	"github.com/yext/soy/parsepasses"
+	"github.com/yext/soy/soymsg/pomsg"
+	"github.com/yext/soy/template"
 )
 
 func usage() {

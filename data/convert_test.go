@@ -52,10 +52,10 @@ func TestNew(t *testing.T) {
 			PI *AInt
 		}{{nil}},
 			List{Map{"pI": Null{}}}},
-		{testIDURL{1, "https://github.com/robfig/soy"},
-			Map{"iD": Int(1), "uRL": String("https://github.com/robfig/soy")}},
-		{testIDURLMarshaler{1, "https://github.com/robfig/soy"},
-			Map{"id": Int(1), "url": String("https://github.com/robfig/soy")}},
+		{testIDURL{1, "https://github.com/yext/soy"},
+			Map{"iD": Int(1), "uRL": String("https://github.com/yext/soy")}},
+		{testIDURLMarshaler{1, "https://github.com/yext/soy"},
+			Map{"id": Int(1), "url": String("https://github.com/yext/soy")}},
 	}
 
 	for _, test := range tests {

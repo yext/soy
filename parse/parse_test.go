@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/errortypes"
+	"github.com/yext/soy/ast"
+	"github.com/yext/soy/errortypes"
 )
 
 type parseTest struct {

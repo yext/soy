@@ -3,8 +3,8 @@ package soymsg
 import (
 	"testing"
 
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/parse"
+	"github.com/yext/soy/ast"
+	"github.com/yext/soy/parse"
 )
 
 func TestSetPlaceholders(t *testing.T) {

@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/robfig/soy/data"
+	"github.com/yext/soy/data"
 )
 
 // Node represents any singular piece of a Soy template.  For example, a

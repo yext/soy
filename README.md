@@ -1,12 +1,14 @@
 # soy
 
-[![GoDoc](http://godoc.org/github.com/robfig/soy?status.png)](http://godoc.org/github.com/robfig/soy)
-[![Build Status](https://travis-ci.org/robfig/soy.png?branch=master)](https://travis-ci.org/robfig/soy)
-[![Go Report Card](https://goreportcard.com/badge/robfig/soy)](https://goreportcard.com/report/robfig/soy)
+This is a fork of https://github.com/robfig/soy.
+
+[![GoDoc](http://godoc.org/github.com/yext/soy?status.png)](http://godoc.org/github.com/yext/soy)
+[![Build Status](https://travis-ci.org/yext/soy.png?branch=master)](https://travis-ci.org/yext/soy)
+[![Go Report Card](https://goreportcard.com/badge/yext/soy)](https://goreportcard.com/report/yext/soy)
 
 Go implementation for Soy templates aka [Google Closure
 Templates](https://github.com/google/closure-templates).  See
-[godoc](http://godoc.org/github.com/robfig/soy) for more details and usage
+[godoc](http://godoc.org/github.com/yext/soy) for more details and usage
 examples.
 
 This project requires Go 1.12 or higher due to one of the transitive

@@ -1,9 +1,9 @@
 package parsepasses
 
 import (
-	"github.com/robfig/soy/ast"
-	"github.com/robfig/soy/soymsg"
-	"github.com/robfig/soy/template"
+	"github.com/yext/soy/ast"
+	"github.com/yext/soy/soymsg"
+	"github.com/yext/soy/template"
 )
 
 // ProcessMessages calculates the message ids and placeholder names for {msg}
